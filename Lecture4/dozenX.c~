@@ -1,0 +1,16 @@
+//Marina Dunn
+//PHYS 105
+//to compile: $gcc dozenX.c -o dozenX.exe
+//to run: $dozenX.exe
+
+#include <stdio.h>
+
+int main()
+{
+
+  int i;
+  int X = XXXXXXXXXXXX;
+  for( i=0; i==1; i=i+1){
+    X = X;
+      }
+}

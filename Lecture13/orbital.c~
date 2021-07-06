@@ -1,0 +1,12 @@
+//Marina Dunn
+//PHYS 105
+//to compile: $pc orbital.c -o orbital.exe
+//to run: $orbital.exe
+
+#include <stdio.h>
+#include <math.h>
+#include "philsplot.h"
+
+//Prototypes for the force in the X and Y directions
+float ForceX(float m, float t, float x, float y, float vx, float vy, float v);
+float ForceY(float m, float t, float x, float y, float vx, float vy, float v);

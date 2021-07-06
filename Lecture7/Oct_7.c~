@@ -1,0 +1,9 @@
+//Marina Dunn
+//PHYS
+//to compile:$gcc Oct_7.c -o Oct_7.exe
+//to run: $Oct_7.exe
+
+#include <stdio.h>
+
+int main()
+{

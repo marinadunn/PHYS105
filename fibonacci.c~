@@ -1,0 +1,12 @@
+//Marina Dunn
+//PHYS 105 Final Project
+//to compile: $gcc fibonacci.c -o fibonacci.exe
+//to run: $fibonacci.exe
+
+/*The purpose of this project is to create a program that uses a recursive function to find the Nth number in the Fibonacci sequence. The Fibonaccii sequence is a series of numberas that begins with 0 an 1, and then the following numbers are found by adding the two previous ones together (i.e. (0+1) = 1, which would be the next number, and then (1+1) = 2, which would be the following). This means that the rule for this sequence would be X_n = X_n-1 + X_n-2.*/
+
+//Fun extra tidbits: if we made squares with widths equal to the numbers in the Fibonacci sequence, starting with two boxes of width 1, and then placed them so that all the sides fit neatly together, we could draw a perfect infinite spiral known as the "Fibonacci Spiral."
+//Also, the sequence was first introduced by Italian mathematician Leonardo Bonacci in 1202 in his book "Liber Abaci."
+
+#include <stdio.h>
+
